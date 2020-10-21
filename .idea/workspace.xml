@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a303cbd-44d3-4f6f-9416-a3061b88749c" name="Default Changelist" comment="" />
+    <list default="true" id="1a303cbd-44d3-4f6f-9416-a3061b88749c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steps.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Search_Page_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codecept.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/codecept.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +24,7 @@
   </component>
   <component name="JupyterTrust" id="22aa9426-1af8-4fc1-8138-9a50fb7454a3" />
   <component name="ProjectId" id="1ixnq2L7GsEvXA4ZHXNoMcKffPh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,15 +45,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -58,6 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602858300018</updated>
       <workItem from="1602858301266" duration="12571000" />
+      <workItem from="1603303104530" duration="1983000" />
+      <workItem from="1603305284126" duration="2182000" />
     </task>
     <servers />
   </component>

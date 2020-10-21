@@ -15,12 +15,16 @@ exports.config = {
     }
   },
   include: {
-    I: './steps_file.js'
+    I: './steps_file.js',
+    searchPage: './pages/Search.js'
   },
   bootstrap: null,
   mocha: {},
   name: 'codeceptJS',
   plugins: {
+    allure: {
+      enabled: true
+    },
     pauseOnFail: {},
     retryFailedStep: {
       enabled: true
