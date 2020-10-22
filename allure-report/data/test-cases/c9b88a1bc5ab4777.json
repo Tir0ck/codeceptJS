@@ -1,0 +1,172 @@
+{
+  "uid" : "c9b88a1bc5ab4777",
+  "name" : "check navigation after searching",
+  "fullName" : "Search Page:.check navigation after searching",
+  "historyId" : "a420b4a751a2f939b50a65e8b4b50a29",
+  "time" : {
+    "start" : 1603381355224,
+    "stop" : 1603381361215,
+    "duration" : 5991
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I am on page \"https://google.com\"",
+      "time" : {
+        "start" : 1603381356748,
+        "stop" : 1603381359271,
+        "duration" : 2523
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "searchRow: inputInSearch 1, true",
+      "time" : {
+        "start" : 1603381359271,
+        "stop" : 1603381360320,
+        "duration" : 1049
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "I fill field {\"css\":\"div.pR49Ae\"}, 1",
+        "time" : {
+          "start" : 1603381359272,
+          "stop" : 1603381359807,
+          "duration" : 535
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "I press key \"Enter\"",
+        "time" : {
+          "start" : 1603381359807,
+          "stop" : 1603381360320,
+          "duration" : 513
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "I wait for visible {\"xpath\":\"//div[@id=\\\"search\\\"]\"}",
+      "time" : {
+        "start" : 1603381360320,
+        "stop" : 1603381361215,
+        "duration" : 895
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Search Page:"
+  }, {
+    "name" : "testClass",
+    "value" : "Search Page:"
+  }, {
+    "name" : "testMethod",
+    "value" : "check navigation after searching"
+  }, {
+    "name" : "package",
+    "value" : "Search Page:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9e0dbe8315d28d01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603381312039,
+        "stop" : 1603381317734,
+        "duration" : 5695
+      }
+    }, {
+      "uid" : "307c3ad19f41cd2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603380993786,
+        "stop" : 1603380998994,
+        "duration" : 5208
+      }
+    }, {
+      "uid" : "6a683792c1ac319e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603377397078,
+        "stop" : 1603377402479,
+        "duration" : 5401
+      }
+    }, {
+      "uid" : "6df3726cf6e3e657",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603376858648,
+        "stop" : 1603376866295,
+        "duration" : 7647
+      }
+    }, {
+      "uid" : "3c2f83688f45e84b",
+      "status" : "failed",
+      "statusDetails" : "Cannot read property 'inputInSearch' of undefined",
+      "time" : {
+        "start" : 1603376565213,
+        "stop" : 1603376568518,
+        "duration" : 3305
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9b88a1bc5ab4777.json",
+  "parameterValues" : [ ]
+}

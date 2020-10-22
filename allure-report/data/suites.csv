@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Oct 22 17:42:23 EET 2020","Thu Oct 22 17:42:27 EET 2020","3729","","Login Page:","","Login Page:","test that all elements display properly","test that all elements display properly",""
+"passed","Thu Oct 22 17:42:31 EET 2020","Thu Oct 22 17:42:35 EET 2020","3999","","Search Page:","","Search Page:","check elements from search row and dropdown menu","check elements from search row and dropdown menu",""
+"passed","Thu Oct 22 17:42:35 EET 2020","Thu Oct 22 17:42:41 EET 2020","5991","","Search Page:","","Search Page:","check navigation after searching","check navigation after searching",""
+"passed","Thu Oct 22 17:42:27 EET 2020","Thu Oct 22 17:42:31 EET 2020","3524","","Search Page:","","Search Page:","test that all elements display properly","test that all elements display properly",""

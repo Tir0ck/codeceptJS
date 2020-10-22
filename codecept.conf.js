@@ -32,7 +32,6 @@ exports.config = {
   plugins: {
     allure: {
       enabled: true,
-      outputDir: './output/report/'
     },
     pauseOnFail: {},
     retryFailedStep: {

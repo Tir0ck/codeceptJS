@@ -2,6 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a303cbd-44d3-4f6f-9416-a3061b88749c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/100e144427e6126e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/3080d9957b71dec4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/4115631e137169e9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/78adb3a380f39e2f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/attachments/b271c18b965626eb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/1aec6905ab18819e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/1b3e5e5d0ad1a73d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/1ea29c655ca65596.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/22ab8ad20ac52335.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/307c3ad19f41cd2d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/3c2f83688f45e84b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/417c5886ae3f56d6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/4608b5523189976c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/4ecbf1837a44e688.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/6a683792c1ac319e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/6a7f86573d649218.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/6df3726cf6e3e657.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/76f083a2c948ec02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/7dcc08933ebfdd89.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/89445ee240459c3c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/973eced319e8dcaa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/9e0dbe8315d28d01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/a91462984225bd37.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/b0c84962a1b99109.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/b29bf831ee0a2a80.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/b6996fa32ffa3e07.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/b888812084756ccc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/b981f58dd9f14173.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/c9b88a1bc5ab4777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/ee2db5623bb0b9db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/fc06ab703ace2c37.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codecept.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/codecept.conf.js" afterDir="false" />
     </list>
@@ -38,19 +70,6 @@
       <recent name="$PROJECT_DIR$/tests" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +80,9 @@
       <updated>1602858300018</updated>
       <workItem from="1602858301266" duration="12571000" />
       <workItem from="1603303104530" duration="1983000" />
-      <workItem from="1603305284126" duration="28654000" />
+      <workItem from="1603305284126" duration="29268000" />
+      <workItem from="1603378826061" duration="2326000" />
+      <workItem from="1603385352853" duration="696000" />
     </task>
     <servers />
   </component>
@@ -73,10 +94,10 @@
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
     <state x="41" y="367" width="2360" height="1162" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2560.1362@0.23.2560.1362" timestamp="1602863035669" />
-    <state x="418" y="189" width="604" height="490" key="find.popup" timestamp="1603369898903">
+    <state x="418" y="189" width="604" height="490" key="find.popup" timestamp="1603379788095">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="418" y="189" width="604" height="490" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1603369898903" />
+    <state x="418" y="189" width="604" height="490" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1603379788095" />
     <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1603372307972">
       <screen x="0" y="23" width="1440" height="822" />
     </state>

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "1ea29c655ca65596",
+  "name" : "test that all elements display properly",
+  "time" : {
+    "start" : 1603381343755,
+    "stop" : 1603381347484,
+    "duration" : 3729
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22ab8ad20ac52335",
+  "name" : "check elements from search row and dropdown menu",
+  "time" : {
+    "start" : 1603381351154,
+    "stop" : 1603381355153,
+    "duration" : 3999
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9b88a1bc5ab4777",
+  "name" : "check navigation after searching",
+  "time" : {
+    "start" : 1603381355224,
+    "stop" : 1603381361215,
+    "duration" : 5991
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0c84962a1b99109",
+  "name" : "test that all elements display properly",
+  "time" : {
+    "start" : 1603381347563,
+    "stop" : 1603381351087,
+    "duration" : 3524
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

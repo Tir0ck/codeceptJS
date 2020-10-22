@@ -1,0 +1,234 @@
+{
+  "uid" : "fc06ab703ace2c37",
+  "name" : "test that all elements display properly",
+  "fullName" : "Search Page:.test that all elements display properly",
+  "historyId" : "2756d63d61676a04eb48157d9d25c0c3",
+  "time" : {
+    "start" : 1603376557251,
+    "stop" : 1603376560895,
+    "duration" : 3644
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I am on page \"https://google.com\"",
+      "time" : {
+        "start" : 1603376558834,
+        "stop" : 1603376560859,
+        "duration" : 2025
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"xpath\":\"//*[@id=\\\"hplogo\\\"]\"}",
+      "time" : {
+        "start" : 1603376560859,
+        "stop" : 1603376560865,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div.RNNXgb\"}",
+      "time" : {
+        "start" : 1603376560865,
+        "stop" : 1603376560868,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Почта\", {\"xpath\":\"//*[@data-pid=23]\"}",
+      "time" : {
+        "start" : 1603376560868,
+        "stop" : 1603376560873,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Картинки\", {\"xpath\":\"//*[@data-pid=2]\"}",
+      "time" : {
+        "start" : 1603376560873,
+        "stop" : 1603376560876,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div#gbwa\"}",
+      "time" : {
+        "start" : 1603376560876,
+        "stop" : 1603376560878,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Войти\", {\"css\":\"a#gb_70\"}",
+      "time" : {
+        "start" : 1603376560878,
+        "stop" : 1603376560882,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see attributes on elements {\"css\":\"div.FPdoLc input.gNO89b\"}, {\"value\":\"Поиск в Google\"}",
+      "time" : {
+        "start" : 1603376560882,
+        "stop" : 1603376560885,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see attributes on elements {\"css\":\"div.FPdoLc input.RNmpXc\"}, {\"value\":\"Мне повезёт!\"}",
+      "time" : {
+        "start" : 1603376560885,
+        "stop" : 1603376560888,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div.b2hzT\"}",
+      "time" : {
+        "start" : 1603376560888,
+        "stop" : 1603376560890,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"span#fsl\"}",
+      "time" : {
+        "start" : 1603376560890,
+        "stop" : 1603376560893,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"span#fsr\"}",
+      "time" : {
+        "start" : 1603376560893,
+        "stop" : 1603376560895,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 12,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Search Page:"
+  }, {
+    "name" : "testClass",
+    "value" : "Search Page:"
+  }, {
+    "name" : "testMethod",
+    "value" : "test that all elements display properly"
+  }, {
+    "name" : "package",
+    "value" : "Search Page:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc06ab703ace2c37.json",
+  "parameterValues" : [ ]
+}

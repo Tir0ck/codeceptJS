@@ -1,0 +1,232 @@
+{
+  "uid" : "22ab8ad20ac52335",
+  "name" : "check elements from search row and dropdown menu",
+  "fullName" : "Search Page:.check elements from search row and dropdown menu",
+  "historyId" : "fd32e5d7ca18ed18af5545be94eee4e0",
+  "time" : {
+    "start" : 1603381351154,
+    "stop" : 1603381355153,
+    "duration" : 3999
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I am on page \"https://google.com\"",
+      "time" : {
+        "start" : 1603381352659,
+        "stop" : 1603381354595,
+        "duration" : 1936
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div.iblpc\"}",
+      "time" : {
+        "start" : 1603381354596,
+        "stop" : 1603381354600,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div.J9leP\"}",
+      "time" : {
+        "start" : 1603381354600,
+        "stop" : 1603381354603,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div.hpuQDe\"}",
+      "time" : {
+        "start" : 1603381354603,
+        "stop" : 1603381354606,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "searchRow: inputInSearch 1",
+      "time" : {
+        "start" : 1603381354606,
+        "stop" : 1603381355142,
+        "duration" : 536
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "I fill field {\"css\":\"div.pR49Ae\"}, 1",
+        "time" : {
+          "start" : 1603381354606,
+          "stop" : 1603381355142,
+          "duration" : 536
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "I see element {\"css\":\"div.clear-button\"}",
+      "time" : {
+        "start" : 1603381355142,
+        "stop" : 1603381355146,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div.aajZCb\"}",
+      "time" : {
+        "start" : 1603381355146,
+        "stop" : 1603381355149,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see number of visible elements {\"css\":\"ul.erkvQe li.sbct\"}, 10",
+      "time" : {
+        "start" : 1603381355149,
+        "stop" : 1603381355153,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Search Page:"
+  }, {
+    "name" : "testClass",
+    "value" : "Search Page:"
+  }, {
+    "name" : "testMethod",
+    "value" : "check elements from search row and dropdown menu"
+  }, {
+    "name" : "package",
+    "value" : "Search Page:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4608b5523189976c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603381306234,
+        "stop" : 1603381311974,
+        "duration" : 5740
+      }
+    }, {
+      "uid" : "6a7f86573d649218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603380989312,
+        "stop" : 1603380993731,
+        "duration" : 4419
+      }
+    }, {
+      "uid" : "89445ee240459c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603377392392,
+        "stop" : 1603377396999,
+        "duration" : 4607
+      }
+    }, {
+      "uid" : "ee2db5623bb0b9db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603376851812,
+        "stop" : 1603376858584,
+        "duration" : 6772
+      }
+    }, {
+      "uid" : "b888812084756ccc",
+      "status" : "failed",
+      "statusDetails" : "Cannot read property 'icon' of undefined",
+      "time" : {
+        "start" : 1603376560944,
+        "stop" : 1603376564781,
+        "duration" : 3837
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22ab8ad20ac52335.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,264 @@
+{
+  "uid" : "b29bf831ee0a2a80",
+  "name" : "test that all elements display properly",
+  "fullName" : "Login Page:.test that all elements display properly",
+  "historyId" : "d70ea90996916906bd66c20038eed77c",
+  "time" : {
+    "start" : 1603377280395,
+    "stop" : 1603377301488,
+    "duration" : 21093
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I am on page \"https://accounts.google.com/signin\"",
+      "time" : {
+        "start" : 1603377282567,
+        "stop" : 1603377286175,
+        "duration" : 3608
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div#logo\"}",
+      "time" : {
+        "start" : 1603377286175,
+        "stop" : 1603377286181,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Вход\", {\"css\":\"h1#headingText span\"}",
+      "time" : {
+        "start" : 1603377293297,
+        "stop" : 1603377294824,
+        "duration" : 1527
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Используйте аккаунт Google\", {\"css\":\"div#headingSubtext span\"}",
+      "time" : {
+        "start" : 1603377294824,
+        "stop" : 1603377296073,
+        "duration" : 1249
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"input[type=\\\"email\\\"]\"}",
+      "time" : {
+        "start" : 1603377296073,
+        "stop" : 1603377296984,
+        "duration" : 911
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Забыли адрес электронной почты?\", {\"css\":\"button[jsname=\\\"Cuz2Ue\\\"]\"}",
+      "time" : {
+        "start" : 1603377296984,
+        "stop" : 1603377297624,
+        "duration" : 640
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Работаете на чужом компьютере? Включите гостевой режим.\", {\"css\":\"div.vwtvsf div\"}",
+      "time" : {
+        "start" : 1603377297624,
+        "stop" : 1603377298192,
+        "duration" : 568
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"a[jsname=\\\"JFyozc\\\"]\"}",
+      "time" : {
+        "start" : 1603377298192,
+        "stop" : 1603377299456,
+        "duration" : 1264
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"span.I3EnF span\"}",
+      "time" : {
+        "start" : 1603377299456,
+        "stop" : 1603377299888,
+        "duration" : 432
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div.VfPpkd-Jh9lGc\"}",
+      "time" : {
+        "start" : 1603377299888,
+        "stop" : 1603377300208,
+        "duration" : 320
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div.u7land\"}",
+      "time" : {
+        "start" : 1603377300209,
+        "stop" : 1603377300520,
+        "duration" : 311
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Справка\", {\"css\":\"ul.Bgzgmd a\"}",
+      "time" : {
+        "start" : 1603377300520,
+        "stop" : 1603377300872,
+        "duration" : 352
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Конфиденциальность\", {\"css\":\"ul.Bgzgmd a\"}",
+      "time" : {
+        "start" : 1603377300872,
+        "stop" : 1603377301171,
+        "duration" : 299
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Условия\", {\"css\":\"ul.Bgzgmd a\"}",
+      "time" : {
+        "start" : 1603377301171,
+        "stop" : 1603377301487,
+        "duration" : 316
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 14,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Page:"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page:"
+  }, {
+    "name" : "testMethod",
+    "value" : "test that all elements display properly"
+  }, {
+    "name" : "package",
+    "value" : "Login Page:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b29bf831ee0a2a80.json",
+  "parameterValues" : [ ]
+}

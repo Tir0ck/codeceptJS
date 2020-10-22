@@ -1,0 +1,140 @@
+{
+  "uid" : "417c5886ae3f56d6",
+  "name" : "test that all elements display properly",
+  "fullName" : "Login Page:.test that all elements display properly",
+  "historyId" : "d70ea90996916906bd66c20038eed77c",
+  "time" : {
+    "start" : 1603376933771,
+    "stop" : 1603377175948,
+    "duration" : 242177
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Element \"Вход\" was not found by text|CSS|XPath",
+  "statusTrace" : "Error: Element \"Вход\" was not found by text|CSS|XPath\n                    at new ElementNotFound (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/errors/ElementNotFound.js:14:11)\n                    at assertElementExists (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2518:11)\n                    at Puppeteer.proceedSee (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2334:5)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Element \"Вход\" was not found by text|CSS|XPath",
+    "statusTrace" : "Error: Element \"Вход\" was not found by text|CSS|XPath\n                    at new ElementNotFound (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/errors/ElementNotFound.js:14:11)\n                    at assertElementExists (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2518:11)\n                    at Puppeteer.proceedSee (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2334:5)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+    "steps" : [ {
+      "name" : "I am on page \"https://accounts.google.com/signin\"",
+      "time" : {
+        "start" : 1603376935698,
+        "stop" : 1603376938122,
+        "duration" : 2424
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div#logo\"}",
+      "time" : {
+        "start" : 1603376938123,
+        "stop" : 1603376938129,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element \"h1#headingText span\"",
+      "time" : {
+        "start" : 1603377016532,
+        "stop" : 1603377016536,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Вход\", \"h1#headingText span\"",
+      "time" : {
+        "start" : 1603377054089,
+        "stop" : 1603377054114,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see {\"css\":\"h1#headingText span\"}, \"Вход\"",
+      "time" : {
+        "start" : 1603377171225,
+        "stop" : 1603377175947,
+        "duration" : 4722
+      },
+      "status" : "failed",
+      "statusMessage" : "Error: Element \"Вход\" was not found by text|CSS|XPath\n                    at new ElementNotFound (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/errors/ElementNotFound.js:14:11)\n                    at assertElementExists (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2518:11)\n                    at Puppeteer.proceedSee (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2334:5)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "4115631e137169e9",
+      "name" : "Last Seen Screenshot",
+      "source" : "4115631e137169e9.png",
+      "type" : "image/png",
+      "size" : 43383
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Page:"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page:"
+  }, {
+    "name" : "testMethod",
+    "value" : "test that all elements display properly"
+  }, {
+    "name" : "package",
+    "value" : "Login Page:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "417c5886ae3f56d6.json",
+  "parameterValues" : [ ]
+}

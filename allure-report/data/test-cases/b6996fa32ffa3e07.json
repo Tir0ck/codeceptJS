@@ -1,0 +1,125 @@
+{
+  "uid" : "b6996fa32ffa3e07",
+  "name" : "test that all elements display properly",
+  "fullName" : "Login Page:.test that all elements display properly",
+  "historyId" : "d70ea90996916906bd66c20038eed77c",
+  "time" : {
+    "start" : 1603377181451,
+    "stop" : 1603377204312,
+    "duration" : 22861
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Element \"{css: h1#headingSubText span}\" was not found by text|CSS|XPath",
+  "statusTrace" : "Error: Element \"{css: h1#headingSubText span}\" was not found by text|CSS|XPath\n                    at new ElementNotFound (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/errors/ElementNotFound.js:14:11)\n                    at assertElementExists (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2518:11)\n                    at Puppeteer.proceedSee (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2334:5)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Element \"{css: h1#headingSubText span}\" was not found by text|CSS|XPath",
+    "statusTrace" : "Error: Element \"{css: h1#headingSubText span}\" was not found by text|CSS|XPath\n                    at new ElementNotFound (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/errors/ElementNotFound.js:14:11)\n                    at assertElementExists (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2518:11)\n                    at Puppeteer.proceedSee (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2334:5)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+    "steps" : [ {
+      "name" : "I am on page \"https://accounts.google.com/signin\"",
+      "time" : {
+        "start" : 1603377183459,
+        "stop" : 1603377186133,
+        "duration" : 2674
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see element {\"css\":\"div#logo\"}",
+      "time" : {
+        "start" : 1603377186133,
+        "stop" : 1603377186138,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Вход\", {\"css\":\"h1#headingText span\"}",
+      "time" : {
+        "start" : 1603377199620,
+        "stop" : 1603377199626,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Используйте аккаунт Google\", {\"css\":\"h1#headingSubText span\"}",
+      "time" : {
+        "start" : 1603377199626,
+        "stop" : 1603377204311,
+        "duration" : 4685
+      },
+      "status" : "failed",
+      "statusMessage" : "Error: Element \"{css: h1#headingSubText span}\" was not found by text|CSS|XPath\n                    at new ElementNotFound (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/errors/ElementNotFound.js:14:11)\n                    at assertElementExists (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2518:11)\n                    at Puppeteer.proceedSee (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/helper/Puppeteer.js:2334:5)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "100e144427e6126e",
+      "name" : "Last Seen Screenshot",
+      "source" : "100e144427e6126e.png",
+      "type" : "image/png",
+      "size" : 43383
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Page:"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page:"
+  }, {
+    "name" : "testMethod",
+    "value" : "test that all elements display properly"
+  }, {
+    "name" : "package",
+    "value" : "Login Page:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6996fa32ffa3e07.json",
+  "parameterValues" : [ ]
+}

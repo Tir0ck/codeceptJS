@@ -1,0 +1,79 @@
+{
+  "uid" : "3c2f83688f45e84b",
+  "name" : "check navigation after searching",
+  "fullName" : "Search Page:.check navigation after searching",
+  "historyId" : "a420b4a751a2f939b50a65e8b4b50a29",
+  "time" : {
+    "start" : 1603376565213,
+    "stop" : 1603376568518,
+    "duration" : 3305
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Cannot read property 'inputInSearch' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'inputInSearch' of undefined\n                    at Test.<anonymous> (/Users/timur/Projects/codeceptJS/tests/SearchPage_test.js:41:15)\n                    at Context.test.fn (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/scenario.js:91:14)\n                    at callFnAsync (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runnable.js:386:21)\n                    at Test.Runnable.run (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runnable.js:330:7)\n                    at Runner.runTest (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:621:10)\n                    at /Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:745:12\n                    at next (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:538:14)\n                    at /Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:548:7\n                    at next (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:430:14)\n                    at cbHookRun (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:495:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Cannot read property 'inputInSearch' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'inputInSearch' of undefined\n                    at Test.<anonymous> (/Users/timur/Projects/codeceptJS/tests/SearchPage_test.js:41:15)\n                    at Context.test.fn (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/scenario.js:91:14)\n                    at callFnAsync (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runnable.js:386:21)\n                    at Test.Runnable.run (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runnable.js:330:7)\n                    at Runner.runTest (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:621:10)\n                    at /Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:745:12\n                    at next (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:538:14)\n                    at /Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:548:7\n                    at next (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:430:14)\n                    at cbHookRun (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:495:7)",
+    "steps" : [ {
+      "name" : "I am on page \"https://google.com\"",
+      "time" : {
+        "start" : 1603376566735,
+        "stop" : 1603376568517,
+        "duration" : 1782
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b271c18b965626eb",
+      "name" : "Last Seen Screenshot",
+      "source" : "b271c18b965626eb.png",
+      "type" : "image/png",
+      "size" : 157402
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Search Page:"
+  }, {
+    "name" : "testClass",
+    "value" : "Search Page:"
+  }, {
+    "name" : "testMethod",
+    "value" : "check navigation after searching"
+  }, {
+    "name" : "package",
+    "value" : "Search Page:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c2f83688f45e84b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,79 @@
+{
+  "uid" : "b888812084756ccc",
+  "name" : "check elements from search row and dropdown menu",
+  "fullName" : "Search Page:.check elements from search row and dropdown menu",
+  "historyId" : "fd32e5d7ca18ed18af5545be94eee4e0",
+  "time" : {
+    "start" : 1603376560944,
+    "stop" : 1603376564781,
+    "duration" : 3837
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Cannot read property 'icon' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'icon' of undefined\n                    at Test.<anonymous> (/Users/timur/Projects/codeceptJS/tests/SearchPage_test.js:27:28)\n                    at Context.test.fn (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/scenario.js:91:14)\n                    at callFnAsync (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runnable.js:386:21)\n                    at Test.Runnable.run (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runnable.js:330:7)\n                    at Runner.runTest (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:621:10)\n                    at /Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:745:12\n                    at next (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:538:14)\n                    at /Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:548:7\n                    at next (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:430:14)\n                    at cbHookRun (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:495:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Cannot read property 'icon' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'icon' of undefined\n                    at Test.<anonymous> (/Users/timur/Projects/codeceptJS/tests/SearchPage_test.js:27:28)\n                    at Context.test.fn (/Users/timur/Projects/codeceptJS/node_modules/codeceptjs/lib/scenario.js:91:14)\n                    at callFnAsync (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runnable.js:386:21)\n                    at Test.Runnable.run (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runnable.js:330:7)\n                    at Runner.runTest (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:621:10)\n                    at /Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:745:12\n                    at next (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:538:14)\n                    at /Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:548:7\n                    at next (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:430:14)\n                    at cbHookRun (/Users/timur/Projects/codeceptJS/node_modules/mocha/lib/runner.js:495:7)",
+    "steps" : [ {
+      "name" : "I am on page \"https://google.com\"",
+      "time" : {
+        "start" : 1603376562437,
+        "stop" : 1603376564780,
+        "duration" : 2343
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "78adb3a380f39e2f",
+      "name" : "Last Seen Screenshot",
+      "source" : "78adb3a380f39e2f.png",
+      "type" : "image/png",
+      "size" : 157708
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Search Page:"
+  }, {
+    "name" : "testClass",
+    "value" : "Search Page:"
+  }, {
+    "name" : "testMethod",
+    "value" : "check elements from search row and dropdown menu"
+  }, {
+    "name" : "package",
+    "value" : "Search Page:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b888812084756ccc.json",
+  "parameterValues" : [ ]
+}

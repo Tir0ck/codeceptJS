@@ -1,0 +1,65 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Login Page:",
+    "children" : [ {
+      "name" : "test that all elements display properly",
+      "uid" : "1ea29c655ca65596",
+      "parentUid" : "4f950a23be7f274fb8370e627689250e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603381343755,
+        "stop" : 1603381347484,
+        "duration" : 3729
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4f950a23be7f274fb8370e627689250e"
+  }, {
+    "name" : "Search Page:",
+    "children" : [ {
+      "name" : "test that all elements display properly",
+      "uid" : "b0c84962a1b99109",
+      "parentUid" : "7b4fe6426a693697ae88401423518f30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603381347563,
+        "stop" : 1603381351087,
+        "duration" : 3524
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "check elements from search row and dropdown menu",
+      "uid" : "22ab8ad20ac52335",
+      "parentUid" : "7b4fe6426a693697ae88401423518f30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603381351154,
+        "stop" : 1603381355153,
+        "duration" : 3999
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "check navigation after searching",
+      "uid" : "c9b88a1bc5ab4777",
+      "parentUid" : "7b4fe6426a693697ae88401423518f30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603381355224,
+        "stop" : 1603381361215,
+        "duration" : 5991
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7b4fe6426a693697ae88401423518f30"
+  } ]
+}
