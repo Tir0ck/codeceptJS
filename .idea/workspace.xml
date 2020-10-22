@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a303cbd-44d3-4f6f-9416-a3061b88749c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fragments/InfoRow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fragments/LocationRow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fragments/NavigationPanel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fragments/SearchRow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/LoginForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/SearchResult.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Login_Page_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codecept.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/codecept.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Search_Page_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Search_Page_test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +61,7 @@
       <updated>1602858300018</updated>
       <workItem from="1602858301266" duration="12571000" />
       <workItem from="1603303104530" duration="1983000" />
-      <workItem from="1603305284126" duration="27627000" />
+      <workItem from="1603305284126" duration="28654000" />
     </task>
     <servers />
   </component>

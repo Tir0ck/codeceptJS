@@ -31,7 +31,8 @@ exports.config = {
   name: 'codeceptJS',
   plugins: {
     allure: {
-      enabled: true
+      enabled: true,
+      outputDir: './output/report/'
     },
     pauseOnFail: {},
     retryFailedStep: {
