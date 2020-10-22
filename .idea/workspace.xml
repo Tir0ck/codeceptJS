@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a303cbd-44d3-4f6f-9416-a3061b88749c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/Search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/steps.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Search_Page_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragments/InfoRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragments/LocationRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragments/NavigationPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragments/SearchRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/LoginForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/SearchResult.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Login_Page_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codecept.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/codecept.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Search_Page_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Search_Page_test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +71,7 @@
       <updated>1602858300018</updated>
       <workItem from="1602858301266" duration="12571000" />
       <workItem from="1603303104530" duration="1983000" />
-      <workItem from="1603305284126" duration="2182000" />
+      <workItem from="1603305284126" duration="27627000" />
     </task>
     <servers />
   </component>
@@ -79,5 +83,13 @@
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
     <state x="41" y="367" width="2360" height="1162" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2560.1362@0.23.2560.1362" timestamp="1602863035669" />
+    <state x="418" y="189" width="604" height="490" key="find.popup" timestamp="1603369898903">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="418" y="189" width="604" height="490" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1603369898903" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1603372307972">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1603372307972" />
   </component>
 </project>
